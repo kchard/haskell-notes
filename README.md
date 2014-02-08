@@ -12,3 +12,5 @@ http://en.wikibooks.org/wiki/Haskell/The_Functor_class
 http://en.wikibooks.org/wiki/Haskell/Understanding_monads
 
 https://www.fpcomplete.com/user/pbv/an-introduction-to-quickcheck-testing
+
+http://learnyouahaskell.com/chapters
