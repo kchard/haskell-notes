@@ -16,3 +16,5 @@ https://www.fpcomplete.com/user/pbv/an-introduction-to-quickcheck-testing
 http://learnyouahaskell.com/chapters
 
 http://tim.dysinger.net/posts/2014-02-18-haskell-with-emacs.html
+
+http://homepages.inf.ed.ac.uk/wadler/topics/monads.html
