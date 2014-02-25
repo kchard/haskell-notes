@@ -18,3 +18,7 @@ http://learnyouahaskell.com/chapters
 http://tim.dysinger.net/posts/2014-02-18-haskell-with-emacs.html
 
 http://homepages.inf.ed.ac.uk/wadler/topics/monads.html
+
+http://yannesposito.com/Scratch/en/blog/Yesod-tutorial-for-newbies/
+
+http://www.yesodweb.com/book
