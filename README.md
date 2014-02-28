@@ -26,3 +26,5 @@ http://www.yesodweb.com/book
 https://github.com/bitc/hdevtools
 
 http://bob.ippoli.to/archives/2013/01/11/getting-started-with-haskell/
+
+http://www.stephendiehl.com/posts/vim_haskell.html
