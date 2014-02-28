@@ -22,3 +22,7 @@ http://homepages.inf.ed.ac.uk/wadler/topics/monads.html
 http://yannesposito.com/Scratch/en/blog/Yesod-tutorial-for-newbies/
 
 http://www.yesodweb.com/book
+
+https://github.com/bitc/hdevtools
+
+http://bob.ippoli.to/archives/2013/01/11/getting-started-with-haskell/
