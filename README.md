@@ -30,3 +30,16 @@ http://bob.ippoli.to/archives/2013/01/11/getting-started-with-haskell/
 http://www.stephendiehl.com/posts/vim_haskell.html
 
 https://www.fpcomplete.com/school/starting-with-haskell/libraries-and-frameworks/text-manipulation/json
+
+
+## Quickstart
+
+```
+# mkdir foo && cd foo
+# cabal sandbox init
+# cabal init
+# echo 'main = putStrLn "Hello World"' > Main.hs
+# touch LICENSE
+# sed -i 's/-- main-is:/main-is: Main.hs/' foo.cabal
+# cabal configure && cabal build && cabal run
+```
