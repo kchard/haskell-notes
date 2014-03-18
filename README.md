@@ -31,6 +31,8 @@ http://www.stephendiehl.com/posts/vim_haskell.html
 
 https://www.fpcomplete.com/school/starting-with-haskell/libraries-and-frameworks/text-manipulation/json
 
+http://langnostic.blogspot.com/2013/02/wai-without-yesod-simple-example-of_10.html
+
 
 ## Quickstart
 
