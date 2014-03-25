@@ -33,6 +33,7 @@ https://www.fpcomplete.com/school/starting-with-haskell/libraries-and-frameworks
 
 http://langnostic.blogspot.com/2013/02/wai-without-yesod-simple-example-of_10.html
 
+http://www.haskellforall.com/2014/03/introductions-to-advanced-haskell-topics.html
 
 ## Quickstart
 
