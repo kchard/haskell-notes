@@ -37,6 +37,8 @@ http://www.haskellforall.com/2014/03/introductions-to-advanced-haskell-topics.ht
 
 http://dev.stephendiehl.com/hask/
 
+http://adit.io/posts/2013-04-15-making-a-website-with-haskell.html
+
 ## Quickstart
 
 ```
