@@ -35,6 +35,8 @@ http://langnostic.blogspot.com/2013/02/wai-without-yesod-simple-example-of_10.ht
 
 http://www.haskellforall.com/2014/03/introductions-to-advanced-haskell-topics.html
 
+http://dev.stephendiehl.com/hask/
+
 ## Quickstart
 
 ```
