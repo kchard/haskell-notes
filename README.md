@@ -39,6 +39,8 @@ http://dev.stephendiehl.com/hask/
 
 http://adit.io/posts/2013-04-15-making-a-website-with-haskell.html
 
+https://wunki.org/posts/2014-05-17-haskell-packages-development.html
+
 ## Quickstart
 
 ```
